@@ -1,0 +1,1 @@
+gsettings set org.gnome.shell enabled-extensions "['alternate-tab@gnome-shell-extensions.gcampax.github.com', 'hibernate-status@dromi', 'mediaplayer@patapon.info', 'SkypeNotification@chrisss404.gmail.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'workspace-isolated-dash@n-yuki', 'weather-extension@xeked.com']"
